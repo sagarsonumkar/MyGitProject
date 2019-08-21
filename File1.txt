@@ -3,7 +3,7 @@ This is file1 to write hello world.....!!!
 class myclass{
 	public static void main(){
 
-		sysout("Helo world.....Welcome to git..!!");
+		System.out.println("Helo world.....Welcome to git..!!");
 	
 	}
 
