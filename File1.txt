@@ -1,14 +1,15 @@
 This is file1 to write hello world.....!!!
 
-class myclass{		
+class Myclass{		
 
-	private static void myMethod(String str){
+	private void myMethod(String str){
 		System.out.println(str);
 
 	}
 	public static void main(){
-
-		myMethod("Welcome to git");
+		
+		Myclass obj = new myclass()
+		obj.myMethod("Welcome to git");
 	
 	}
 
